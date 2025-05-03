@@ -19,6 +19,9 @@ In brief,
 1. back in Developer Tools, sort by Type field
 1. click on the xhr type named "jobsearch.ashx" where the data: field in the Preview field is not Null
 1. right-click on that same name, click Copy as cURL
+1. save to `request.txt` file
+
+( see `request.example.txt` and `respone.example.json` files for example request and response.)
 
 See the request.txt file.
 
